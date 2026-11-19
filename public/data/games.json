@@ -1,0 +1,127 @@
+{
+  "games": [
+    {
+      "slug": "know-your-roch",
+      "title": "Know Your Roch",
+      "tagline": "How well do you know your people?",
+      "description": "A hot-seat guessing game for family night. One person answers for real. Everyone else tries to predict what they said, in words or in numbers. Points go to the people who have actually been paying attention. A shared screen can show the room while the phones stay in hand.",
+      "players": "2–10",
+      "categories": ["Party", "Family"],
+      "platform": "web",
+      "status": "ready",
+      "url": "https://know-your-roch.onrender.com",
+      "embed": true,
+      "prewarm": true,
+      "featured": false,
+      "badge": "New",
+      "art": "family",
+      "accent": "#e25b2a",
+      "where": "In the browser",
+      "howToPlay": [
+        "One person hosts a room. Everyone else joins with the code, each on their own phone.",
+        "The host picks the categories and how many rounds. Anyone can add a custom prompt.",
+        "Each round puts one player in the hot seat.",
+        "The hot seat answers in secret. Everyone else guesses what they said.",
+        "Reveal the answer, score the closest guesses, and pass the hot seat along."
+      ]
+    },
+    {
+      "slug": "roch-a-doodle",
+      "title": "Roch-a-Doodle",
+      "tagline": "A drawing telephone that gets wonderfully lost.",
+      "description": "A write-it, draw-it, guess-it relay for the people who actually showed up. Everybody writes a secret prompt, the next person sketches it, and the next person guesses the sketch. The book keeps moving until the last guess has wandered far from the first sentence. Then you replay the whole chain.",
+      "players": "3–12",
+      "categories": ["Party"],
+      "platform": "web",
+      "status": "ready",
+      "url": "https://doodle-drift.onrender.com",
+      "embed": true,
+      "prewarm": true,
+      "featured": false,
+      "badge": null,
+      "art": "doodle",
+      "accent": "#e0702a",
+      "where": "In the browser",
+      "howToPlay": [
+        "Open a room and send the link. Everyone picks a doodler name. No accounts.",
+        "Each person secretly writes a silly prompt.",
+        "The sketchbook slides to the next player, who draws what they read.",
+        "The next player sees only the drawing and guesses it in words. Draw and guess take turns down the line.",
+        "At the end, replay every chain from the first sentence to the last guess."
+      ]
+    },
+    {
+      "slug": "rochasaurus-rex",
+      "title": "Rochasaurus Rex",
+      "tagline": "Two answers. One dinosaur. Everybody votes.",
+      "description": "A quip game hosted by Rex, a green dinosaur with a microphone and a soft spot for a good joke. Two players answer the same prompt. Everybody else picks the funnier one. It is built for a couch, a group chat, or a TV with a phone in every hand.",
+      "players": "3–10",
+      "categories": ["Party"],
+      "platform": "web",
+      "status": "ready",
+      "url": "https://rochasaurus-rex.onrender.com",
+      "embed": true,
+      "prewarm": true,
+      "featured": true,
+      "badge": null,
+      "art": "rex",
+      "accent": "#2f9e57",
+      "where": "In the browser",
+      "howToPlay": [
+        "Share the room link. You need 3 to 10 players, and a nickname is enough.",
+        "Prompts land on your phone. Type the funniest answer you can.",
+        "Each prompt puts exactly two answers head to head.",
+        "Everyone else votes. Sweep the votes and you pick up a bonus.",
+        "Later rounds are worth more. Put a laptop or TV on the table as the big screen if you want the whole room in on the laugh."
+      ]
+    },
+    {
+      "slug": "backyard-cookout",
+      "title": "Backyard Cookout",
+      "tagline": "A Texas BBQ tycoon with a raccoon on plates.",
+      "description": "Fire up the pit and build a backyard smokehouse, one plate at a time. You start at a rusty grill, cook for a yard full of critter customers, and let Jimothy the raccoon waiter run the tables. Ring Big Bertha, chase the Saturday Cook-Off, and grow the yard until the smoker is legendary.",
+      "players": "Up to 10",
+      "categories": ["Roblox"],
+      "platform": "roblox",
+      "status": "ready",
+      "url": "https://www.roblox.com/games/103352315081467",
+      "embed": false,
+      "prewarm": false,
+      "featured": false,
+      "badge": null,
+      "art": "cookout",
+      "accent": "#c2410c",
+      "where": "Roblox",
+      "howToPlay": [
+        "Hit Play on Roblox. The experience opens in Roblox, not inside this page.",
+        "Start at the pit. Grill burgers, smoke brisket, and plate tomahawk steaks.",
+        "Serve the critter customers as they wander into the yard. Jimothy handles the tables.",
+        "Ring Big Bertha, grow the backyard, and show up for the Saturday Cook-Off.",
+        "Invite up to 10 friends when the smoker is hot."
+      ]
+    },
+    {
+      "slug": "daybreak-on-the-harvesting",
+      "title": "Daybreak on the Harvesting",
+      "tagline": "Forty-eight players. One sunrise.",
+      "description": "A battle royale for when the sun comes up over the fields. Forty-eight players, one winner, and a harvest that does not stay quiet. The match is not open yet. The tile is on the shelf so you know where to look.",
+      "players": "48",
+      "categories": ["Roblox", "Coming soon"],
+      "platform": "roblox",
+      "status": "coming-soon",
+      "url": null,
+      "embed": false,
+      "prewarm": false,
+      "featured": false,
+      "badge": null,
+      "art": "daybreak",
+      "accent": "#e39b2b",
+      "where": "Roblox, when it opens",
+      "howToPlay": [
+        "This one is still in the shed. The page is here so the shelf is ready.",
+        "When the doors open, 48 players drop into a battle royale as the sun comes up over the fields.",
+        "Scavenge, move with the circle, and be the last one standing at daybreak."
+      ]
+    }
+  ]
+}
