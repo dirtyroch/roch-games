@@ -1,0 +1,13 @@
+{
+  "name": "roch-games",
+  "private": true,
+  "description": "Roch Games, a static portal for Mike Rocha's games.",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node scripts/validate-games.js --links",
+    "test:schema": "node scripts/validate-games.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
